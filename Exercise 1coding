@@ -1,0 +1,50 @@
+package javaBeginners;
+
+public class printCheckerPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("* * * * *");
+System.out.println(" * * * * *");
+System.out.println("* * * * *");
+System.out.println(" * * * * *");
+System.out.println("* * * * *");
+	}
+  
+  package javaBeginners;
+
+public class printSquarePattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("* * * * *");
+System.out.println("*       *");
+System.out.println("*       *");
+System.out.println("*       *");
+System.out.println("* * * * *");
+
+package javaBeginners;
+
+public class printTriangularPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("* * * * *");
+System.out.println(" *     *");
+System.out.println("  *   *");
+System.out.println("   * *");
+System.out.println("    *");
+	}
+  
+  package javaBeginners;
+
+public class printStarPattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("    *  ");
+System.out.println("* *   * *");
+System.out.println("   * * ");
+System.out.println("  *   *");
+System.out.println(" *     *");
+	}
